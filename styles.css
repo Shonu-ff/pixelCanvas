@@ -1,0 +1,12 @@
+#pixel-canvas {
+  width: 720px;
+}
+.pixel {
+  width: 10px;
+  height: 10px;
+  float: left;
+  border: 1px solid black;
+}
+.filled-black {
+  background-color: black
+}
